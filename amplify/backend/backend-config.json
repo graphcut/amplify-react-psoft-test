@@ -42,5 +42,12 @@
         }
       }
     }
+  },
+  "storage": {
+    "psofttest01": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    }
   }
 }

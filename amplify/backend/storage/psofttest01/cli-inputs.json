@@ -1,0 +1,14 @@
+{
+  "resourceName": "psofttest01",
+  "policyUUID": "cd4e45fd",
+  "bucketName": "amplifyreactpsofttesf148da7f92e94f7194fad147775",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

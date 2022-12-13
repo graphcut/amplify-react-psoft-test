@@ -17,6 +17,9 @@
       },
       "api": {
         "amplifyreactpsofttes": {}
+      },
+      "storage": {
+        "psofttest01": {}
       }
     }
   }
