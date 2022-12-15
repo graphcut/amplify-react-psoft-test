@@ -12,14 +12,19 @@
       "AmplifyAppId": "d3n5ith176tkq4"
     },
     "categories": {
-      "auth": {
-        "amplifyreactpsofttes5077f39e": {}
-      },
       "api": {
         "amplifyreactpsofttes": {}
       },
       "storage": {
         "psofttest01": {}
+      },
+      "auth": {
+        "amplifyreactpsofttes6914565d": {
+          "userPoolId": "ap-southeast-2_pgErjyL4O",
+          "userPoolName": "uoa-pool",
+          "webClientId": "relde658kav29cpj93ilq7cak",
+          "nativeClientId": "relde658kav29cpj93ilq7cak"
+        }
       }
     }
   }
